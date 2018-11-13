@@ -16,7 +16,7 @@ Las siguientes instrucciones son para que puedan correr el proyecto en sus compu
 
 ### Prerrequisitos
 
-Antes de comenzar es necesario tener instalado Miniconda con Python 3.6. Miniconda (Anaconda) es un gestor de paquetes y environments de Python. Se puede descargar desde el siguiente link https://conda.io/miniconda.html
+Antes de comenzar es necesario tener instalado Miniconda con Python 3.7. Miniconda (Anaconda) es un gestor de paquetes y environments de Python. Se puede descargar desde el siguiente link https://conda.io/miniconda.html
 
 ### Instalación
 
@@ -25,7 +25,7 @@ Paso a paso el proceso de instalación una vez cumplidos los prerrequisitos. Dur
 ``` sh
 $ cd ~/Documents
 # clonamos el repo
-$ git clone https://github.com/DevC-Cordoba/ai-session-01
+$ git clone https://github.com/DevC-BuenosAires/ai-session-01
 $ cd ai-session-01/setup
 # corremos el script con el cual se descargan las dependencias necesarias 
 # y crea el environment ai-session-01
