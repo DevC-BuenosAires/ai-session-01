@@ -67,8 +67,11 @@ Les recomiendo ir ejecutando celda por celda, Jupyter Notebook tiene un intérpr
 * [Numpy](http://www.numpy.org/)
 * [Scikit-learn](http://scikit-learn.org)
 
+## Speaker Buenos Aires
+* **Matias Grinberg** - [Cerebrock](https://github.com/Cerebrock)
+
 ## Autores
 
-* **Joaquín Barotto** - Speaker - [JoacoIB](https://github.com/JoacoIB)
-* **Daniel Bridera** - Speaker - [danielstaff](https://github.com/danielstaff)
-* **Emanuel Lupi** - Speaker - [WaVEV](https://github.com/WaVEV)
+* **Joaquín Barotto** - Speaker (Córdoba) - [JoacoIB](https://github.com/JoacoIB)
+* **Daniel Bridera** - Speaker (Córdoba) - [danielstaff](https://github.com/danielstaff)
+* **Emanuel Lupi** - Speaker (Córdoba) - [WaVEV](https://github.com/WaVEV)
